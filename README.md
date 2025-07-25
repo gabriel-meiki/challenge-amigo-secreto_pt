@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-![Capa do Projeto](INSIRA_O_LINK_DA_IMAGEM_AQUI)\## Badges
+![Capa do Projeto](https://github.com/gabriel-meiki/challenge-amigo-secreto_pt/blob/main/assets/capa.png)\## Badges
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)\## Índice
 
