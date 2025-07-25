@@ -26,10 +26,10 @@ O projeto está **concluído**.
 
 ### Funcionalidades
 
-- **Adicionar amigos**: Permite incluir nomes de amigos na lista.
-- **Sortear amigos**: Realiza o sorteio de um amigo secreto a partir da lista adicionada.
-- **Alerta de lista vazia**: Exibe um alerta caso o usuário tente sortear sem ter adicionado amigos.
-- **Alerta de nome vazio**: Impede a adição de nomes vazios à lista e notifica o usuário.
+- **Adicionar nomes**: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
+- **Validar entrada**: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+- **Visualizar a lista**: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
+- **Sorteio aleatório**: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ## Acesso ao Projeto
 
