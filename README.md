@@ -33,7 +33,7 @@ O projeto está **concluído**.
 
 ## Acesso ao Projeto
 
-Para acessar o projeto, visite o link do deploy (se disponível) ou siga as instruções para rodar localmente:
+Para acessar o projeto, visite o link do deploy https://gabriel-meiki.github.io/challenge-amigo-secreto_pt/ ou siga as instruções para rodar localmente:
 
 1. Clone o repositório:
 
