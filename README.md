@@ -1,8 +1,10 @@
 # Amigo Secreto
 
-![Capa do Projeto](https://github.com/gabriel-meiki/challenge-amigo-secreto_pt/blob/main/assets/capa.png)\## Badges
+![Capa do Projeto](https://github.com/gabriel-meiki/challenge-amigo-secreto_pt/blob/main/assets/capa.png)
 
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)\## Índice
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)
+
+## Índice
 
 - Descrição do Projeto
 - Status do Projeto
@@ -28,10 +30,6 @@ O projeto está **concluído**.
 - **Sortear amigos**: Realiza o sorteio de um amigo secreto a partir da lista adicionada.
 - **Alerta de lista vazia**: Exibe um alerta caso o usuário tente sortear sem ter adicionado amigos.
 - **Alerta de nome vazio**: Impede a adição de nomes vazios à lista e notifica o usuário.
-
-### Demonstração
-
-*(Adicione aqui capturas de tela ou gifs da aplicação em funcionamento, se disponível.)*
 
 ## Acesso ao Projeto
 
